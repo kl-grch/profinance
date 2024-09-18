@@ -1,0 +1,92 @@
+[
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Кардиган",
+    "size": "50-60",
+    "inStock": 0,
+    "inTransit": 40,
+    "total": 30
+  },
+  {
+    "barcode": "2037618545903",
+    "type": "Одежда",
+    "art": "Брюки",
+    "size": "50",
+    "inStock": 6,
+    "inTransit": 32,
+    "total": 4
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Брюки",
+    "size": "50-54",
+    "inStock": 25,
+    "inTransit": 50,
+    "total": 2
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Брюки",
+    "size": "58",
+    "inStock": 18,
+    "inTransit": 0,
+    "total": 15
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Брюки 1",
+    "size": "52",
+    "inStock": 3,
+    "inTransit": 3,
+    "total": 3
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Кардиган",
+    "size": "50-60",
+    "inStock": 0,
+    "inTransit": 40,
+    "total": 30
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Брюки",
+    "size": "50",
+    "inStock": 6,
+    "inTransit": 32,
+    "total": 4
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Брюки",
+    "size": "50-54",
+    "inStock": 25,
+    "inTransit": 50,
+    "total": 2
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Брюки",
+    "size": "58",
+    "inStock": 18,
+    "inTransit": 0,
+    "total": 15
+  },
+  {
+    "barcode": "2037618545904",
+    "type": "Одежда",
+    "art": "Брюки 1",
+    "size": "52",
+    "inStock": 3,
+    "inTransit": 3,
+    "total": 3
+  }
+]
